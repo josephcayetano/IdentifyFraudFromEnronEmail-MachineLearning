@@ -10,3 +10,8 @@ This repository contains the following files:
 
 4. enronfinalreport.pdf - A PDF file containing the report and the algorithms used to identify the persons of interest involved in the Enron fraud.
 
+5. my_classifier.pkl - A python pickle file containing my chosen classifiers/algorithms for the project.
+
+6. my_dataset.pkl - A python pickle file containing the dataset.
+
+7. my_feature_list.pkl - A python pickle file containing my chosen features to use for classifiers/algorithms. 
